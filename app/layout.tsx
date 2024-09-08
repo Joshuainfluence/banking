@@ -46,7 +46,7 @@ export default function RootLayout({
     // </html>
     <html lang="en">
       <body
-        className={`${inter.variable} ${ibmPlexSerif.variable} antialiased`}
+        className={`${inter.variable} ${ibmPlexSerif.variable}`}
       >
         {children}
       </body>
